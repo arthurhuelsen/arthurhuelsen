@@ -1,9 +1,3 @@
-### Olá! Eu sou o Arthur Huelsen 👋
-
-- 👨‍🎓   Ciência da Computação
-- 🌱  Estudando React e JS
-- 📫  How to reach me: arthurhuelsen@gmail.com
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
